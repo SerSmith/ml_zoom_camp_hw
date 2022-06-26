@@ -1,0 +1,1 @@
+python starter.py $arg1 $arg2
